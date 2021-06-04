@@ -4,7 +4,8 @@
  */
 
 #include "data.h"
-#include <malloc.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 int* push(int *queue, int * size_of_queue,int value)
 {
